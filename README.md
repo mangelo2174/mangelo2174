@@ -2,7 +2,7 @@
 
 - 🏢 Aluno do Instituto Federal do Ceará
 - 🖥️ Cursando Informática
-- 🏀 Amo praticar esportes
+- 🏀 Atleta de Handebol/Basquete 
 - 🕹️ Viciado em jogos eletronicos
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=mangelo2174&show_icons=true&theme=dracula&count_private=true)
