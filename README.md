@@ -1,6 +1,6 @@
 ## Ola! Meu Nome é Miguel Angelo
 
-- 🏢 Aluno do Instituto federal do Ceará
+- 🏢 Aluno do Instituto Federal do Ceará
 - 🖥️ Cursando Informática
 - 🏀 Amo praticar esportes
 - 🕹️ Viciado em jogos eletronicos
@@ -14,6 +14,8 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
+
+Social Media
 
 <div>
 
