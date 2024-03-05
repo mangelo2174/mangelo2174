@@ -2,8 +2,8 @@
 
 - 🏢 Aluno do Instituto federal do Ceará
 - 🖥️ Cursando Informática
-- 🤾🏽‍♂️ Jogador de Handball
-- 🎮 Jogador de valorant
+- 🏀 Amo praticar esportes
+- 🕹️ Viciado em jogos eletronicos
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=mangelo2174&show_icons=true&theme=dracula&count_private=true)
 
@@ -14,5 +14,13 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
+
+<div>
+
+  <a href="https://instagram.com/angelo2174_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/angelo" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+
+</div>
+
 
 ##
