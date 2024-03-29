@@ -4,7 +4,7 @@
 - 🖥️ Cursando Informática
 - 🕹️ Viciado em jogos eletronicos
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=mangelo2174&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=miangelw&show_icons=true&theme=dracula&count_private=true)
 
 ###### **Linguagens que estou atualmente estudando:**<h6>
 
