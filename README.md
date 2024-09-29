@@ -10,8 +10,8 @@
 - 🕹️ Viciado em jogos eletronicos
 
 <div align="center">  
-  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasg-07&show_icons=true&count_private=true&hide_border=false&border_color=4169E1&title_color=FFFFFF&icon_color=00CED1&text_color=4169E1&bg_color=0d1117" alt="Angelo Github stats" /> 
-  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasg-07&layout=compact&hide_border=true&title_color=FFFFFF&text_color=4169E1&bg_color=0d1117" />
+  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api?username=miangelw-07&show_icons=true&count_private=true&hide_border=false&border_color=4169E1&title_color=FFFFFF&icon_color=00CED1&text_color=FFFFFF&bg_color=FFFFFF" alt="Angelo Github stats" /> 
+  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miangelw-07&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=FFFFFF" />
 </div>
 
 ###### **Linguagens que estou atualmente estudando:**<h6>
