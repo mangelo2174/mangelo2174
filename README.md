@@ -11,6 +11,11 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=miangelw&show_icons=true&theme=dracula&count_private=true)
 
+<div align="center">  
+  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasg-07&show_icons=true&count_private=true&hide_border=false&border_color=4169E1&title_color=0000FF&icon_color=00CED1&text_color=4169E1&bg_color=0d1117" alt="Lucas Gonzaga github stats" /> 
+  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasg-07&layout=compact&hide_border=true&title_color=0000FF&text_color=4169E1&bg_color=0d1117" />
+</div>
+
 ###### **Linguagens que estou atualmente estudando:**<h6>
 
 <div style="display: inline_block">
@@ -19,10 +24,6 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-<div align="center"> 
-<a href = "mailto:gonluk0607@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/devlucasgonz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
 
 
 ###### **Social Media:** <h6>
