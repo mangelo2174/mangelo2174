@@ -9,11 +9,6 @@
 - 🖥️ Cursando Informática
 - 🕹️ Viciado em jogos eletronicos
 
-<div align="center">  
-  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api?username=miangelw&show_icons=true&count_private=true&hide_border=false&border_color=4169E1&title_color=000000&icon_color=00CED1&text_color=000000&bg_color=000000" alt="Angelo Github stats" /> 
-  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miangelw&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=FFFFFF" />
-</div>
-
 ###### **Linguagens que estou atualmente estudando:**<h6>
 
 <div style="display: inline_block">
